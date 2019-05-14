@@ -32,7 +32,10 @@
     "ava": "^0.25.0",
     "browser-env": "^3.2.5",
     "release-it": "^7.6.1",
-    "typescript": "3.0.1"
+    "ts-loader": "^6.0.0",
+    "typescript": "3.0.1",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
   },
   "ava": {
     "require": [
